@@ -11,6 +11,7 @@ Commit via CLI não está com status 'verificado'.
 O que fiz:
 Alterei o eMail nas configurações do Git.
 Adicionei o novo eMail no GitHub
+Adicionei a flag --gpg-sign no commit
 -
 
 
