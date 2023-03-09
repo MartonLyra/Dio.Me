@@ -5,7 +5,7 @@ Tanto as SSH quanto as GPG são chaves de criptografias.
 Já **as chaves GPG** são usadas para assinar os commits. 
 
 
-##SSH Keys:
+## SSH Keys:
 
 
 
