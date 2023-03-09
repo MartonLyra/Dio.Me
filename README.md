@@ -5,7 +5,13 @@ Banco PAN Java Developer
 \#ContratoDeCompromisso
 
 
-Commit via CLI não está com status 'verificado'
+Problema:
+Commit via CLI não está com status 'verificado'.
+
+O que fiz:
+Alterei o eMail nas configurações do Git.
+Adicionei o novo eMail no GitHub
+-
 
 
 # Desafios DIO:
