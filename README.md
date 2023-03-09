@@ -22,15 +22,10 @@ marton2050@gmail.com
 
 ## Problemas pendentes:
 
-Entender o Markdown do ReadMe do GitHub.  
-Ele parece um pouco diferente do meu computador.  
-Mas especificamente, sobre line break.  
-
-
 
 ## Problemas resolvidos:
 
-# Problema - Commit via CLI não está com status 'verificado'.
+#### Problema - Commit via CLI não está com status 'verificado'.
 
 O que fiz:  
 Alterei o eMail nas configurações do Git.  
@@ -38,3 +33,7 @@ Adicionei o novo eMail no GitHub
 Adicionei a flag --gpg-sign no commit  
 Adicionei a chave GPG no GitHub  
 Resolvido!  
+
+#### Problema - Readme do GitHub não aceita newLine
+
+O que eu fiz: adicionei dois espaços ao final de cada linha.
