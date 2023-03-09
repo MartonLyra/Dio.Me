@@ -1,29 +1,24 @@
 # Dio.Me
-## Minhas anotações e meu andamento
-Bootcamp Dio.Me  
-Banco PAN Java Developer  
-\#ContratoDeCompromisso  
+### Minhas anotações e meu andamento
+**Bootcamp Dio.Me**  
+**Banco PAN Java Developer**  
+**\#ContratoDeCompromisso**  
 
-
-# Desafios DIO:
-
-### Desafio GitHub - Primeiro Repositório
-
-
-[DELME]
-
-
-### Quem sou eu?
 **Marton Vasconcelos Lyra**  
 https://github.com/MartonLyra  
 marton2050@gmail.com  
 
 
 
-## Problemas pendentes:
+## Desafios DIO:
+
+#### Desafio GitHub - Primeiro Repositório
 
 
-## Problemas resolvidos:
+### Problemas pendentes:
+
+
+### Problemas resolvidos:
 
 #### Problema - Commit via CLI não está com status 'verificado'.
 
