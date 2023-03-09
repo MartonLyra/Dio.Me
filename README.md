@@ -5,7 +5,7 @@ Banco PAN Java Developer
 \#ContratoDeCompromisso
 
 
-DELME
+
 
 # Desafios DIO:
 
