@@ -4,7 +4,7 @@ Bootcamp Dio.Me
 Banco PAN Java Developer
 \#ContratoDeCompromisso
 
-
+Commit verificado 2016?
 
 
 # Desafios DIO:
